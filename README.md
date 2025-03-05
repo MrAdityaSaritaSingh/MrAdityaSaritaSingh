@@ -5,6 +5,7 @@
 - 📫 Mail me @ mr.adityasaritasingh@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a quizzer with interest in history.
+- 💼 Portfolio: [mradityasaritasingh.github.io](mradityasaritasingh.github.io)
 
 <!---
 MrAdityaSaritaSingh/MrAdityaSaritaSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
