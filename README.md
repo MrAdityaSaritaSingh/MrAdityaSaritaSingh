@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I'm a quizzer with interest in history.
 - 💼 Portfolio: [mradityasaritasingh.github.io](https://mradityasaritasingh.github.io/).
 - 📓 Blog: [adigeak.github.io](https://adigeak.github.io/).
+- 🔗 Linktree: [linktr.ee/AdityaSRathore](https://linktr.ee/AdityaSRathore)
 
 <!---
 MrAdityaSaritaSingh/MrAdityaSaritaSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
