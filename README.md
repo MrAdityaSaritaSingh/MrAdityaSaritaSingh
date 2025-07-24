@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Singh (@MrAdityaSaritaSingh)
+- 👋 Hi, I’m Aditya Singh Rathore(@MrAdityaSRathore)
 - 👀 I’m interested in building and managing products.
 - 🌱 I’m currently learning product design and managment in IIIT-Hyderabad
 - 💞️ I’m looking to collaborate on building product with hardware and software/
